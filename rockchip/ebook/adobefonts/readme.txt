@@ -1,0 +1,1 @@
+请将本目录下的文件放在/system/fonts/下，或者/system/fonts/adobefonts/下，或者/flash/adobefonts下，或者/sdcard/adobefonts下
